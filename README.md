@@ -1,2 +1,2 @@
 # Skule-News-iOS-App
-(iPhone Xs Max 1.png)
+![Screenshot](iPhone Xs Max 1.png)
