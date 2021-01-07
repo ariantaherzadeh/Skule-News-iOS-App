@@ -1,5 +1,5 @@
 # Skule News iOS App
---> Contact for Codebase <--
+--> Contact for Codebase arian@taherzadeh.ca <--
 
 Skule News is a mobile app designed to replace the traditional highschool newspaper through the world.
 
