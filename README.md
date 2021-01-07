@@ -1,5 +1,6 @@
 # Skule-News-iOS-App
 --> Contact for Codebase <--
+
 Skule News is a mobile app designed to replace the highschool newspaper.
 Benefits
   - Increased student engagement
