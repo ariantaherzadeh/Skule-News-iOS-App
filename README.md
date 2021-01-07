@@ -1,4 +1,4 @@
-# Skule-News-iOS-App
+# Skule News iOS App
 --> Contact for Codebase <--
 
 Skule News is a mobile app designed to replace the traditional highschool newspaper through the world.
